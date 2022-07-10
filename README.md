@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.ibb.co/CwffZ61/20220605-104552.jpg" alt="nz" width="350"/>
+<img src="https://i.ibb.co/xzSnZ88/94-74-108-9734-20220710-151938.jpg
 </p>
 
 ## 𝗖𝗥𝗔𝗭𝗬 𝗗𝗥𝗔𝗚𝗢𝗡 𝗕𝗢𝗧 😻  Version 6.5
