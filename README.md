@@ -4,7 +4,7 @@
 
 ## 𝗖𝗥𝗔𝗭𝗬 𝗗𝗥𝗔𝗚𝗢𝗡 𝗕𝗢𝗧 😻  Version 6.5
   
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+☬𝗖𝗥𝗔𝗭𝗬 𝗗𝗥𝗔𝗚𝗢𝗡 𝗕𝗢𝗧 😻❤️.
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+☬𝗖𝗥𝗔𝗭𝗬+𝗗𝗥𝗔𝗚𝗢𝗡+𝗕𝗢𝗧+😻+❤️. 
 
 LATEST VERSION 6.5 (2022-07-05 [Get videos 360p, 480p, 720p])
 
