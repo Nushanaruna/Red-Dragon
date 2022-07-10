@@ -84,21 +84,21 @@ LATEST VERSION 6.5 (2022-07-05 [Get videos 360p, 480p, 720p])
 	
 | Features |  Availability |
 | :------: |  :----------: |
-|   Convert     |       ✅     |
+|   Convert     |       🥵     |
 |   Database     |       ✅     |
-|   Owner     |       ✅    |
+|   Owner     |       🥵    |
 |   Islami     |       ✅     |
-|   Downloader     |       ✅     |
+|   Downloader     |       🥵    |
 |   Webzone     |       ✅[      |
-|   Searching     |       ✅      |
+|   Searching     |       🥵      |
 |   Textpro     |       ✅      |
-|   Ephoto     |       ✅     |
+|   Ephoto     |       🥵     |
 |   Anime Web     |       ✅      |
-|   Stalker     |       ✅      |
+|   Stalker     |       🥵      |
 |   Random Text     |       ✅     |
-|   Random Image     |       ✅     |
+|   Random Image     |       🥵     |
 |   Nekos Life     |       ✅      |
-|   More Nsfw     |       ✅      |
+|   More Nsfw     |       🥵      |
 |   Creator     |       ✅      |
 
 </details>
