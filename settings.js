@@ -20,13 +20,13 @@ global.APIKeys = {
 //customize settings\\
 
 global.alivemsg = `My name is   ̶  ͟͞CRAZY BOY͟͞   ̶ ➊ ʸᵗ
-My Creator is Crazy boy 😎` //Costomize Alive Message (i'm crazy චූටි දග කෙම්ලෙක් ඔනි මට 🥺❤️ `` )
+My Creator is NUSHAN BOY😻` //Costomize Alive Message (i'm crazy චූටි දග කෙම්ලෙක් ඔනි මට 🥺❤️ `` )
 
 global.owner = ['+94741089734'] //Owner number in aive msg
 global.premium = ['+94741089734'] //Owner Number info
 global.ownernomer = '+94741089734' //Owner Number <<<
 
-global.ownername = '🥵♼CRAZY BOT🥵♼' //Owner Name
+global.ownername = '🥵♼CRAZY BOT' //Owner Name
 global.botname = ' ̶  ͟͞CRAZY BOY͟͞   ̶ ➊ ʸᵗ ' //Bot Name
 
 global.button = 'ආදරෙයි ඔයාට 🥺❤️' //Costomize A Button Name In Alive Message
@@ -35,15 +35,15 @@ global.btnurl = 'https://chat.whatsapp.com/GtDAIPEZpQMHgXqemek7KH' //Change Your
 global.region = 'India, South India, Kerala' //Country Region
 
 global.packname = '  ̶  ͟͞CRAZY BOY͟͞   ̶ ➊ ʸᵗ' //Bot Pacage Name
-global.author = '🥵♼CRAZY BOT🥵♼' //Author Name
+global.author = '🥵♼CRAZY BOT' //Author Name
 global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor
-global.dragonemoji = 'ආදරෙයි ගොඩාක් 🥺❤️' // Menu emoji
+global.dragonemoji = '➊' // Menu emoji
 global.footer = '©_crazy.' //In list menu
 global.chatbotpre = 'true'  // Chat bot true/false
 
-global.ig = 'https://github.com/prabhasha2006' //Github Account!
+global.ig = 'https://github.com/Nushanaruna/Red-Dragon' //Github Account!
 
 global.mess = { // COSTOMIZE WITH YOUR LANGUAGE
 	
