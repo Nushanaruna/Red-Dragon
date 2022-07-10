@@ -1,5 +1,5 @@
 <p align="center">
-<img src="<img src="https://i.ibb.co/xzSnZ88/94-74-108-9734-20220710-151938.jpg" alt="94-74-108-9734-20220710-151938" border="350">
+<img src="<img src="[url=https://ibb.co/c2cWqXX][img]https://i.ibb.co/xzSnZ88/94-74-108-9734-20220710-151938.jpg[/img][/350]
 </p>
 
 ## 𝗖𝗥𝗔𝗭𝗬 𝗗𝗥𝗔𝗚𝗢𝗡 𝗕𝗢𝗧 😻  Version 6.5
