@@ -4,7 +4,7 @@
 
 ## 𝗖𝗥𝗔𝗭𝗬 𝗗𝗥𝗔𝗚𝗢𝗡 𝗕𝗢𝗧 😻  Version 6.5
   
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+☬𝗖𝗥𝗔𝗭𝗬+𝗗𝗥𝗔𝗚𝗢𝗡+𝗕𝗢𝗧+😻+❤️. 
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70000&background=FFFFFF&width=500&height=150&lines=%E0%B6%B8%E0%B6%B8+%E0%B6%B1%E0%B7%94%E0%B7%82%E0%B7%8F%E0%B6%B1%E0%B7%8A+%E0%B7%80%E0%B6%BA%E0%B7%83+14+;%E0%B6%B8%E0%B6%A7+%E0%B6%A0%E0%B7%96%E0%B6%A7%E0%B7%92+%E0%B6%9A%E0%B7%99%E0%B6%B8%E0%B7%8A%E0%B6%BD%E0%B7%99%E0%B6%9A%E0%B7%8A+%E0%B6%94%E0%B6%B1%E0%B7%93+%F0%9F%A5%BA%E2%9D%A4%EF%B8%8F;http%3A%2F%2Fwa.me%2F%2B94741089734%3Ftext%3D;%F0%9F%91%86+%E0%B6%B8%E0%B7%90%E0%B7%83%E0%B7%99%E0%B6%A2%E0%B7%8A+%E0%B6%91%E0%B6%9A%E0%B6%9A%E0%B7%8A+%E0%B6%AF%E0%B7%8F%E0%B6%B1%E0%B7%8A%E0%B6%B1+%F0%9F%A5%BA%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
 
 LATEST VERSION 6.5 (2022-07-05 [Get videos 360p, 480p, 720p])
 
