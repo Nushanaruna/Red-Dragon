@@ -39,7 +39,7 @@ LATEST VERSION 6.5 (2022-07-05 [Get videos 360p, 480p, 720p])
 
 
 <p align="center">
-<img src="https://i.ibb.co/MPDZ0gW/image-downloader-16538741656127.gif" alt="nz" width="600"/>
+<img src="https://i.ibb.co/fGXBwfR/image-downloader-16538741656127.gif" alt="nz" width="600"/>
 </p>
 
 </details>
